@@ -1,0 +1,70 @@
+.experience-card {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    padding: 12px;
+}
+
+.skill-card {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center;ss */
+    padding: 12px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.menu-icon {
+    font-size: 24px;
+}
+
+.wide {
+    width: 100%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.encircle {
+    border-radius: 9999px;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.add {
+    color: #1C3665;
+    width: 30px;
+    height: 30px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button {
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+.left {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pad-6 {
+    padding: 6px
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}

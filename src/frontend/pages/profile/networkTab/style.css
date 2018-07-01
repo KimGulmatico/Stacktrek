@@ -1,0 +1,150 @@
+/*
+ * Groups
+ */
+.detail-container {
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+    .detail-container {
+        text-align: left;
+    }
+}
+
+.holder {
+    padding: 0;
+    background: white;
+    border: 1px solid #e8e8e8;
+    margin: 2px 0;
+    text-align: left;
+}
+
+.padded-holder {
+    padding: 10px;
+}
+
+.person-image {
+    width: 100%;
+    height: auto;
+    border-radius: 50px;
+    display: inline-flex;
+}
+
+.title {
+    text-align: left;
+    font-size: 25px;
+    font-weight: 700;
+    color: #1C3665;
+}
+
+.subtitle {
+    text-align: left;
+}
+
+.details {
+    padding: 24px 24px 12px 24px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.groups {
+    padding-top: 12px;
+    font-size: 75px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.group-image {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    display: inline-flex;
+}
+
+.menu {
+    padding: 6px 0;
+    text-align: center;
+}
+
+.plus-icon {
+    font-size: 20px;
+}
+
+/*
+ * Profile Card
+ */
+.profile-card {
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+@media only screen and (max-width: 425px) {
+    .button-text {
+        display: none;
+    }
+}
+
+.pad-2 {
+    padding: 5px
+}
+
+.col-sm-4 {
+    flex-basis: 16.66667%;
+    max-width: 16.66667%;
+}
+
+.col-sm-6 {
+    flex-basis: 25%;
+    max-width: 25%;
+}
+
+.col-sm-8 {
+    flex-basis: 33.33333%;
+    max-width: 33.33333%;
+}
+
+.col-sm-10 {
+    flex-basis: 41.66667%;
+    max-width: 41.66667%;
+}
+
+.col-sm-12 {
+    flex-basis: 50%;
+    max-width: 50%;
+}
+
+.col-sm-14 {
+    flex-basis: 58.33333%;
+    max-width: 58.33333%;
+}
+
+.col-sm-16 {
+    flex-basis: 66.66667%;
+    max-width: 66.66667%;
+}
+
+.avatar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 35px;
+    margin: 6px;
+}
+
+.profile-name {
+    font-size: 18px;
+    font-weight: 600;
+    color: #1C3665;
+}
+
+.network-container {
+    width: 100%;
+    padding: 16px;
+}

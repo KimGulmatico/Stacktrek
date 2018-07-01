@@ -1,0 +1,21 @@
+const users = require('./users/users.service.js')
+const groups = require('./groups/groups.service.js')
+const tags = require('./tags/tags.service.js')
+const badges = require('./badges/badges.service.js')
+const events = require('./events/events.service.js')
+const requests = require('./requests/requests.service.js')
+const skills = require('./skills/skills.service.js')
+const skillsEnum = require('./skillsEnum/skillsEnum.service')
+const experiences = require('./experiences/experiences.service')
+// eslint-disable-next-line no-unused-vars
+module.exports = function setupServices(app) {
+  app.configure(users)
+  app.configure(groups)
+  app.configure(tags)
+  app.configure(badges)
+  app.configure(events)
+  app.configure(requests)
+  app.configure(skills)
+  app.configure(skillsEnum)
+  app.configure(experiences)
+}

@@ -1,0 +1,68 @@
+.achievement-counter {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: linear-gradient(-210deg, #115192 50%, #1C3665 1%);
+    padding: 0;
+    margin: 0;
+}
+
+.count {
+    font-size: 75px;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.line {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.badge-padding {
+    padding: 24px 12px 24px 24px;
+}
+
+.badge {
+    font-size: 125px;
+}
+.badge-description {
+    text-align: left;
+    padding: 24px 24px 24px 12px;
+}
+
+.badge-title {
+    font-size: 25px;
+    font-weight: 700;
+    color: #1C3665;
+}
+
+.badge-menu {
+    text-align: right;
+    padding: 12px 24px;
+}
+
+.card-menu-icon {
+    font-size: 20px;
+    margin: 4px;
+}
+
+.card-menu-text {
+    font-size: 15px;
+}
+
+.menu-item {
+    display: inline-flex;
+    align-items: center;
+    text-align: right;
+}
+
+.container {
+    width: 100%;
+    padding: 16px;
+}

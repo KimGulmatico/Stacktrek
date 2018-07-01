@@ -1,0 +1,50 @@
+.top-performers-container {
+  display: 'flex';
+  flex-direction: column;
+  align-items: center;
+  padding: 8px;
+  width: 100%;
+}
+
+.top-performers-thumbnail {
+  text-align: center;
+}
+
+.top-performers-header {
+  font-size: 2em;
+}
+
+.top-dev-name {
+  font-size: 0.9em;
+}
+.top-dev-school {
+  font-size: 0.6em;
+  color: #115192
+}
+.top-dev-rating {
+  font-size: 0.7em;
+}
+
+@media only screen and (min-width: 600px) {
+  .top-dev-name {
+    font-size: 1em;
+  }
+  .top-dev-school {
+    font-size: 0.7em;
+  }
+  .top-dev-rating {
+    font-size: 0.8em;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .top-dev-name {
+    font-size: 1.2em;
+  }
+  .top-dev-school {
+    font-size: 0.8em;
+  }
+  .top-dev-rating {
+    font-size: 1em;
+  }
+}

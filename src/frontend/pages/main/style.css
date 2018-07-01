@@ -1,0 +1,33 @@
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.main-top {
+  width: 100%;
+  margin-top: 2%;
+}
+
+.main-nav {
+  width: 30%;
+}
+
+.main-details {
+  width: 70%;
+}
+
+.main-connection {
+  width: 100%;
+  text-align: center;
+}
+
+.main-tab {
+  text-align: left;
+}
+
+.main-button { 
+  width: 100%;
+  border: none;
+}

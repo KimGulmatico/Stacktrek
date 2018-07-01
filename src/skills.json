@@ -1,0 +1,287 @@
+[
+    {
+      "name": "ActionScript"
+    },
+    {
+      "name": "Ada"
+    },
+    {
+      "name": "Alice"
+    },
+    {
+      "name": "Amazon Redshift"
+    },
+    {
+      "name": "Apache"
+    },
+    {
+      "name": "Apex"
+    },
+    {
+      "name": "AspectJ"
+    },
+    {
+      "name": "Assembly Language"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Berkeley DB"
+    },
+    {
+      "name": "Bigtable"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Cassandra"
+    },
+    {
+      "name": "COBOL"
+    },
+    {
+      "name": "CoffeeScript"
+    },
+    {
+      "name": "CouchDB"
+    },
+    {
+      "name": "Crystal"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "D"
+    },
+    {
+      "name": "Dart"
+    },
+    {
+      "name": "DB2"
+    },
+    {
+      "name": "Delphi"
+    },
+    {
+      "name": "Derby"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "Elastic Search"
+    },
+    {
+      "name": "Erlang"
+    },
+    {
+      "name": "F#"
+    },
+    {
+      "name": "Fortran"
+    },
+    {
+      "name": "Go"
+    },
+    {
+      "name": "Google Cloud Storage"
+    },
+    {
+      "name": "Groovy"
+    },
+    {
+      "name": "Hack"
+    },
+    {
+      "name": "Haskell"
+    },
+    {
+      "name": "HBase"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Julia"
+    },
+    {
+      "name": "Kotlin"
+    },
+    {
+      "name": "LabView"
+    },
+    {
+      "name": "Lisp"
+    },
+    {
+      "name": "Logo"
+    },
+    {
+      "name": "Lua"
+    },
+    {
+      "name": "MariaDB"
+    },
+    {
+      "name": "MATLAB"
+    },
+    {
+      "name": "memcached"
+    },
+    {
+      "name": "Microsoft Azure"
+    },
+    {
+      "name": "Microsoft SQL Server"
+    },
+    {
+      "name": "ML"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Neo4j"
+    },
+    {
+      "name": "Node"
+    },
+    {
+      "name": "Objective-C"
+    },
+    {
+      "name": "OpenCL"
+    },
+    {
+      "name": "Oracle"
+    },
+    {
+      "name": "Oracle Database"
+    },
+    {
+      "name": "Pascal"
+    },
+    {
+      "name": "Perl"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "PL/SQL"
+    },
+    {
+      "name": "PostGreSQL"
+    },
+    {
+      "name": "Prolog"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Q"
+    },
+    {
+      "name": "Q#"
+    },
+    {
+      "name": "R"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "RethinkDB"
+    },
+    {
+      "name": "REXX"
+    },
+    {
+      "name": "RPG"
+    },
+    {
+      "name": "Ruby"
+    },
+    {
+      "name": "Rust"
+    },
+    {
+      "name": "SAP HANA"
+    },
+    {
+      "name": "SAS"
+    },
+    {
+      "name": "Scala"
+    },
+    {
+      "name": "Scheme"
+    },
+    {
+      "name": "Scratch"
+    },
+    {
+      "name": "Shell"
+    },
+    {
+      "name": "Solidity"
+    },
+    {
+      "name": "Spark"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "SQL Server"
+    },
+    {
+      "name": "SQLite"
+    },
+    {
+      "name": "Swift"
+    },
+    {
+      "name": "Sybase"
+    },
+    {
+      "name": "Symfony"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "Transact-SQL"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Visual Basic .NET"
+    },
+    {
+      "name": "Vitess"
+    },
+    {
+      "name": "Voldemort"
+    },
+    {
+      "name": "WebAssembly"
+    },
+    {
+      "name": "XHP"
+    }
+  ]

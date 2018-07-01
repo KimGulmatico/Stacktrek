@@ -1,0 +1,15 @@
+@import url('currentEvents/style.css');
+@import url('topPerformers/style.css');
+
+.home-body {
+  width: 100%;
+  background-color: white
+}
+
+.home-banner {
+  background: linear-gradient(50deg, #115192 50%, #1C3665 1%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
